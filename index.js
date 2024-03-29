@@ -20,3 +20,4 @@ app.get('/',(req,res)=>{
 app.listen(PORT,()=>{
     console.log(`app is listenning at port no ${PORT}`);
 })
+
